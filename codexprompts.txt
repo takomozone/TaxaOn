@@ -1,0 +1,6 @@
+[2026-09-07 — User prompt]
+write every prompt to file codexprompts.txt
+
+Name of the new webshop is "TaxaOn". New webshop has same idea but new webshop make it is possible to order taxi meters with different contract pediods (6 months, 12 months and 24 months). The monthly price of different meters is 10 euros lower for 12 month period and 20 euros cheaper for 24 perdiod. User can choose the period and see how prices change.
+
+Create impressive graphics and feel. Compact user interface which is easy to use for choosing meter and accessories and contract period: take meter models, pictures and accessorie choices from page https://semel.fi/verkkokauppa/
