@@ -4,3 +4,36 @@ write every prompt to file codexprompts.txt
 Name of the new webshop is "TaxaOn". New webshop has same idea but new webshop make it is possible to order taxi meters with different contract pediods (6 months, 12 months and 24 months). The monthly price of different meters is 10 euros lower for 12 month period and 20 euros cheaper for 24 perdiod. User can choose the period and see how prices change.
 
 Create impressive graphics and feel. Compact user interface which is easy to use for choosing meter and accessories and contract period: take meter models, pictures and accessorie choices from page https://semel.fi/verkkokauppa/
+
+[2026-09-07 — User prompt]
+change to look and feeling to be similar with page /Users/aleksireuna/owncode/TaxiMax Folder/TaxiMax/index.html
+
+[2026-09-07 — User prompt]
+lisää kuva Semel contact phonelle
+[Liite: /var/folders/rs/7c9r_g9j5ngb49ysyksbhc_h0000gn/T/codex-clipboard-a7f96f50-911d-48cd-b666-2cc393054aec.png]
+
+[2026-09-07 — User prompt]
+lisää kuva Semel Contact Tabletille
+[Liite: /var/folders/rs/7c9r_g9j5ngb49ysyksbhc_h0000gn/T/codex-clipboard-af3aa9b0-b7f1-414d-bffe-80635c816347.png]
+
+[2026-09-07 — User prompt]
+tee nuo 2 kuvaa suuremmiksi sivulla
+
+[2026-09-07 — User prompt]
+what .tsx file means
+
+[2026-09-07 — User prompt]
+move "täydennä kokonaisuus" section to be after "ajonvälityspääte" section
+
+[2026-09-07 — User prompt]
+make every chose that the user made to be on a light yellow color like in the ajonvälityspääte section the chose change the background color
+
+[2026-09-07 — User prompt]
+rename page name TaxaOn to MeterOn every where
+
+[2026-09-07 — User prompt]
+i want edit ScubaGear project. It is a game like visual app which allows you to fit scuba clothes and equipments on scuba diver (man or woman). Different suits with different colors, finns, masks, regulators, tank models. It's a but like scuba fashion app but still everything looks serious. Bakcground is scuba live board deck
+
+i want to edit and run TaxoOn. Use port 3001 so scubagear is not using the same port
+
+convert
